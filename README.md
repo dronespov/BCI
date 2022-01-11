@@ -1,0 +1,1 @@
+# Hello, the goal for this project is to develop opensourced applications to further advance the BCI field. Possibly making applications that can detect brain patterns related to decisions and relay the information to a computer, robot, device, etc. 
